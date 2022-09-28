@@ -1,0 +1,58 @@
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.csprojAssemblyReference.cache
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\App.g.cs
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack_MarkupCompile.cache
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack_MarkupCompile.lref
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\View\WindowProfile.g.cs
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Gtrack.exe
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Gtrack.deps.json
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Gtrack.runtimeconfig.json
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Gtrack.runtimeconfig.dev.json
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Gtrack.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\ref\Gtrack.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Gtrack.pdb
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\View\MainWindow.baml
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\View\WindowProfile.baml
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.g.resources
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.AssemblyInfoInputs.cache
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.AssemblyInfo.cs
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.csproj.CoreCompileInputs.cache
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.csproj.CopyComplete
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\ref\Gtrack.dll
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.pdb
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\Gtrack.genruntimeconfig.cache
+D:\Users\Darko Grmashkoski\source\repos\Gtrack\obj\Debug\net5.0-windows\App.baml
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Gtrack.exe
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Gtrack.deps.json
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Gtrack.runtimeconfig.json
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Gtrack.runtimeconfig.dev.json
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Gtrack.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\ref\Gtrack.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Gtrack.pdb
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\MaterialDesignColors.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.csprojAssemblyReference.cache
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\View\MainWindow.g.cs
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\View\WindowProfile.g.cs
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack_MarkupCompile.cache
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack_MarkupCompile.lref
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\App.baml
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\View\MainWindow.baml
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\View\WindowProfile.baml
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.g.resources
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.AssemblyInfoInputs.cache
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.AssemblyInfo.cs
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.csproj.CoreCompileInputs.cache
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.csproj.CopyComplete
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\ref\Gtrack.dll
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.pdb
+C:\Users\Darko Grmashkoski\Desktop\faks romania\Gtrack\obj\Debug\net5.0-windows\Gtrack.genruntimeconfig.cache

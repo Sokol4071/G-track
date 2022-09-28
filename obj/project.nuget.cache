@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iydaywzygkXv4ZjEbi1DXN69phT12k+xQ/K3LAMXhgnOdmGwxjkDmY9nEKFZg6HRrmzxK3T9u+2bsEPF6nWCtQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Darko Grmashkoski\\Desktop\\faks romania\\Gtrack\\Gtrack.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Darko Grmashkoski\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\Darko Grmashkoski\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",
+    "C:\\Users\\Darko Grmashkoski\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
